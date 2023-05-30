@@ -26,14 +26,14 @@ Healthcare, Media & Advertisement, Retail, Real Estate, Research.
 
 🧠 I'm currently learning more and working on projects building ETL pipelines;
 
-📫 How to reach me: ericaw_23@wfu.alumni.edu
+📫 How to reach me: ericaw_23@wfu.alumni.edu, or find me in [My LinkedIn](https://www.linkedin.com/in/ericagoat/)
 
 ⚡️ Fun fact: Huge fan of Boston Dine Out Week!!!!!
 
 
 ## 🛠 Skills & Related Projects from Scratch
 #### Javascript + HTML+ CSS: Web Design
--  [Interactive Feedback Collection Page](https://web.bentley.edu/wan_zhe/Fatcatandfatdog/A3.html#symptoms)
+- [Interactive Feedback Collection Page](https://web.bentley.edu/wan_zhe/Fatcatandfatdog/A3.html#symptoms)
 - [Animal Obesity and Treatment (With top menu bar)](https://web.bentley.edu/wan_zhe/Fatcatandfatdog/A4.html#treatment)
 - [Roll Dice Game& Write Poem (User Interactive Inputs)](https://web.bentley.edu/wan_zhe/Fatcatandfatdog/A7.html#symptoms)
 - [Interactive Calculation Game](https://web.bentley.edu/wan_zhe/Fatcatandfatdog/A5.html#symptoms)
