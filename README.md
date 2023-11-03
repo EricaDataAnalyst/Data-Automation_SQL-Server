@@ -10,6 +10,10 @@ This respositary is the collection of all machine learning projects that I have 
 
 
 ## 🚀 About Me
+#### Summary:
+A proactive Business Analyst with 3 years’ work and education experience in analyzing, visualizing and storytelling Data under Business settings. 
+#### Current Position
+Working as a Data Quality Intern under Data Enigneer team: providing ad hoc data report to business departments and data science team. 
 #### Education:
 MS in Business Analytics + BS in Finance, minor Computer Information System; 
 #### MBTI:
@@ -20,9 +24,8 @@ Healthcare, Media & Advertisement, Retail, Real Estate, Research.
 
 
 
-
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently looking for full time/part time/intern/contractor of Business Analyst/ Marketing Analyst/ Data Analyst/ Sales Analyst/ Finance Analyst;
+👩‍💻 I'm currently looking for full time position of Business Intelligence Analyst/ Business Analyst/ Marketing Analyst;
 
 🧠 I'm currently learning more and working on projects building ETL pipelines;
 
